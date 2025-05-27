@@ -16,7 +16,14 @@ Innovative and results-driven Software Developer with 2+ years of experience bui
 
 <strong>Bachelor of Information Technology</strong> <br >
 University of South-East Asia <br >
-2021-2025 <br >
+2021-2025 <br > <br >
+
+## Certification
+
+<strong>AWS Certified Cloud Practisioner</strong> <br >
+The Cloud4Cambodia Battambang Program <br >
+14th - 20th 2024 <br > <br >
+
 
 ## Works
 
