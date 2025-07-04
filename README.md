@@ -1,8 +1,6 @@
 # Chenter PHAI
 
-Software Developer
-
-<img src="https://intellinex.netlify.app/_next/image?url=https%3A%2F%2Fprjcddvoddyxqvbjwsrm.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2FIntellinex_bucket%2Fimages%2FChenter.png&w=640&q=100" alt="Chenter Profile" width="200" >
+Software Engineer
 
 ## Porfessional Summary
 
